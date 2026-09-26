@@ -1,0 +1,83 @@
+--- QUERY ---
+What is the Minimum Level Profiling feature and which product has it?
+--- AGENT ANSWER ---
+The Minimum Level Profiling feature of the AQUASCOPE 3 is a digital acoustic listening device that records leak values independently of ambient noises. It latches to the lowest noise detected at each sounding.
+--- SOURCES ---
+- AQUASCOPE 3 (Acoustic Leak Detection Microphones)
+
+=======================
+
+--- QUERY ---
+What is the difference between the AQUASCAN 610 and the AQUASCAN 760T?
+--- AGENT ANSWER ---
+The AQUASCAN 760T includes True Sound Sensors (TSS) for superior leak noise clarity, speed, and accuracy, along with radio-controlled digital filters and state-of-the-art algorithms for real-time leak localization. The AQUSCAN 610 features standard wireless sensors with analogue pre-filters and advanced spectrum analysis, but lacks the specific TSS technology and real-time data processing capabilities of the
+--- SOURCES ---
+- AQUASCAN 760T (Real-Time Correlators For All Conditions)
+- AQUASCAN 610 (Real-Time Correlators For All Conditions)
+
+=======================
+
+--- QUERY ---
+Which products use True Sound Sensors (TSS) — and what advantage does TSS give?
+--- AGENT ANSWER ---
+The AQUASCAN 760T and AQUASCAN TM3 products use True Sound Sensors (TSS). TSS provides superior leak noise clarity, speed, and pinpoint accuracy in all field conditions.
+--- SOURCES ---
+- AQUASCAN 760T (Real-Time Correlators For All Conditions)
+- AQUASCAN TM3 (Real-Time Correlators For All Conditions)
+
+=======================
+
+--- QUERY ---
+I need to find leaks on plastic pipes over long distances — what do you recommend?
+--- AGENT ANSWER ---
+The AQUASCAN TM3 is the ideal choice for detecting leaks on plastic pipes over long distances. It features high-end True Sound Sensors for clarity and accuracy, along with a dynamic filter for relevant sound frequencies. The device is designed for trunk main and plastic pipes and comes with an Android app for easy operation.
+--- SOURCES ---
+- AQUASCAN TM3 (Real-Time Correlators For All Conditions)
+
+=======================
+
+--- QUERY ---
+We want permanent monitoring in underground chambers with no drilling — what fits?
+--- AGENT ANSWER ---
+The ZONESCAN HYDRO is the perfect fit for permanent monitoring in underground chambener without the need for drilling. It features a 95% connectivity rate, daily automatic time synchronization, and advanced sensors for leak detection and equipment security. The installation is facilitated by the ZONESCAN INSTALL Android app.
+--- SOURCES ---
+- Permanent Leak Detection Monitoring (Overview)
+
+=======================
+
+--- QUERY ---
+Can I order the ZONESCAN HYDRO today?
+--- AGENT ANSWER ---
+The ZONESCAN HYDRO is not available for immediate purchase as it is launching in Q2 2term 2026. Pre-series units can be ordered by contacting sales.
+--- SOURCES ---
+- ZONESCAN HYDRO (Permanent Leak Detection Monitoring)
+
+=======================
+
+--- QUERY ---
+Does the ZONESCAN AI use hydrophone technology?
+--- AGENT ANSWER ---
+The document does not contain enough information to answer this.
+--- SOURCES ---
+- ZONESCAN AI (Permanent Leak Detection Monitoring)
+
+=======================
+
+--- QUERY ---
+Which Gutermann device is suitable for detecting leaks in plastic mains across long distances?
+--- AGENT ANSWER ---
+The Gutermann device suitable for detecting leaks in plastic mains across long distances is the AQUASCAN TM3. It is a high-end real-time correlator with True Sound Sensors that deliver clarity, speed, and accuracy in all field conditions. It also includes radio controlled digital filters and an Android app for ease of use.
+--- SOURCES ---
+- AQUASCAN TM3 (Real-Time Correlators For All Conditions)
+
+=======================
+
+--- QUERY ---
+What is the battery life of the AQUASCOPE 3?
+--- AGENT ANSWER ---
+The document does not contain enough information to answer this.
+--- SOURCES ---
+- AQUASCOPE 3 (Acoustic Leak Detection Microphones)
+
+=======================
+
